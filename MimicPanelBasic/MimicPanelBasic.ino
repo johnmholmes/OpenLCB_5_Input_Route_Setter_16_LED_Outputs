@@ -6,6 +6,7 @@
 
   Input Pins 4,16,17,5,18
   Output Pins: 19, 21, 22, 23, 13, 12, 14, 27, 26, 25, 33, 32
+  Can RX pin 15 TX 2
 
   Tested with the 
   ESP32 board manager 3.3.10 + 3.3.11
