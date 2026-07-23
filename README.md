@@ -22,7 +22,7 @@ This **ESP32 node** is part of the Basic Series and is designed for small mimic 
 | **CAN RX**            | `15`                                     | SN65HVD230 |
 | **CAN TX**            | `2`                                      | SN65HVD230 |
 
-> **Total Outputs:** 12 GPIO pins supporting 8 turnout controls + 16 LED channels (via firmware logic).
+> **Total Outputs:** 12 GPIO pins supporting 16 LED channels (via firmware logic) for block detection or turnouts.
 
 ---
 
