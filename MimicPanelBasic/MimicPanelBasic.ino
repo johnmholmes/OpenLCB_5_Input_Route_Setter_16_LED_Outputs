@@ -100,7 +100,7 @@ const char configDefInfo[] PROGMEM =
   <group replication="6">
     <name>Outputs Group 1 (Outputs 1 - 6)</name>
     <repname>Indicator </repname>
-    <description>Outputs on Pins 19, 21, 22, 23, 13, 12, 14</description>
+    <description>Outputs on Pins 19, 21, 22, 23, 13, 12</description>
 
     <string size='24'><name>Description</name></string>
     <eventid><name>Event 1: Turn ON (HIGH)</name></eventid>
